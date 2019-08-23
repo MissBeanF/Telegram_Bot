@@ -1,0 +1,3 @@
+
+update status: None
+error: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot857499863:AAGou6Ar8XRXl9QlY5v_in-kDfCr5iykaW0/getUpdates (Caused by ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0583EE10>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)'))
