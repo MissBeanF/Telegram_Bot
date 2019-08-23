@@ -1,17 +1,6 @@
-## Welcome-BOT(To GDG)
-
-![Welcome-BOT(To GDG)](https://raw.githubusercontent.com/Tkd-Alex/Welcome-To-GDG/master/img/banner.jpg  "Welcome-BOT(To GDG)")
-
-Welcome To **GDG** it's a simple telegram bot. 
-His job is to say *"Welcome"* to new members of telegram group, and invite them to join the [GDG Catania Forum](http://www.forum.gdgcatania.org/).
-
-
-
-#### What is a GDG (Google Developers Group) ?
->Google Developer Groups are for developers who are interested in Google's developer technology. A GDG can take many forms -- from just a few people getting together, to large gatherings with demos and tech talks, to events like code sprints and hackathons. As of March 2015, there are currently 600+ GDGs worldwide.
-
-#### Configure Welcome To GDG in other telegram group
-Despite this bot is designed for the GDG group you can easily download the bot and use it in any other group to welcome new users! That's how:
+This is a Telegram bot that checks user if the user is a bot or not when user joins the telegram group.
+It shows 4 words and when the user input correct work, it passes the user to join the group.
+When the user inputs wrong words, it blocks the user.
 
 For execute the bot your system needs:
 
