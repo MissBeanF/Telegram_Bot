@@ -49,8 +49,8 @@ def welcome(bot, update):
 
 def get_message(bot, update):
     global new_user
-    print(99999,update.message)
-    print(66666, user_list)
+    print("Updated message",update.message)
+    print("User List", user_list)
     text = update.message.text
     if update.message.from_user.id not in user_list:   
         if text == 'First' or text == 'Second' or text == 'Third' or text == 'Fourth':
