@@ -1,0 +1,26 @@
+Source Code: https://github.com/MissBeanF/Telegram_Bot
+Droplet:
+1.	Clone the above url with the command “git clone https://github.com/MissBeanF/Telegram_Bot”
+2.	If there is no python3 or 2 installed.
+    $ sudo apt-get update
+    $ sudo apt-get install python3          // this installs python 3.6 version.
+3.	If there is python installed then: 
+    In Telegram Bot directory run this command:
+    •	If python version is 3
+                     python3 main.py
+    •	if python version is 2
+                     python main.py
+    ********************************************
+    If there is an error to install requirements
+        -	python –m pip install python-telegram-bot
+        -	python –m pip install telepot==12.0
+        -	python –m pip install requests
+    After installing requirements, then try again:
+         python main.py
+4.	If you want to run the code in background:
+          nohup python main.py &
+****
+  Before run this script in background, please sure that its file permission must be 755
+
+Y ou can reference in https://janakiev.com/blog/python-background/
+
